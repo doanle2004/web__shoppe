@@ -1,5 +1,6 @@
 # WEBSITE SELL CLOTHES
 https://perk-bevis.github.io/blog_canhan/
 
-#Technology
+#TECHNOLOGY
+
 HTML, CSS, JAVASCRIPT
